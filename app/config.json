@@ -1,0 +1,8 @@
+{
+  "serviceName": "DfE Connect",
+  "plugins": {
+    "govuk-frontend": {
+      "rebrand": true
+    }
+  }
+}
